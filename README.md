@@ -67,7 +67,7 @@ The VivaMente Dashboard empowers doctors with tools to efficiently manage patien
 ## 💻 System Design <a name = "System Design"></a>
 
   <img src="https://github.com/user-attachments/assets/5db161d3-c999-423f-ba53-bd1b17f9a670" style="width: 45%; height: 400px;">
-  <img src="https://github.com/user-attachments/assets/5fb84114-ee74-4ff0-b1de-3acd115328b9" alt="Capture d'écran 2024-11-20 185627" style="width: 45%; height: 400px;">
+  <img src="https://github.com/user-attachments/assets/e6efff62-7b7f-4707-9226-4c7f143ef070" alt="Capture d'écran 2024-11-20 185627" style="width: 45%; height: 400px;">
 
 ---
 
