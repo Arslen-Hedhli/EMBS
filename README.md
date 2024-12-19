@@ -25,7 +25,9 @@
 
 ---
 
-*Chess Coach Robot* is an AI-powered chess assistant designed to help players improve their chess skills. By analyzing gameplay, suggesting optimal moves, and offering tailored feedback, it serves as both a coach and a companion for chess enthusiasts of all levels. Using machine learning algorithms and advanced game theory, the robot learns from players' strategies and provides real-time coaching to enhance their performance.
+*VivaMente is an AI-powered platform designed to support bipolar patients by enhancing care and improving treatment outcomes. It streamlines communication between patients and doctors while providing tailored tools for effective management.
+
+The VivaMente Dashboard empowers doctors with tools to efficiently manage patient records, monitor medication schedules, and oversee treatment plans. It also enables real-time video consultations, offering personalized care and improving the doctor-patient connection, all within a user-friendly interface.
 
 📝 *Table of Contents*
 
