@@ -42,19 +42,19 @@ The VivaMente Dashboard empowers doctors with tools to efficiently manage patien
 
 <p align="center">
   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/0b1faf96-3150-4984-aadd-076fc0783954" width="400" />
+    <img src="https://github.com/user-attachments/assets/0b1faf96-3150-4984-aadd-076fc0783954" width="1200" />
     <p>Dashboard</p>
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/3ab91280-843a-4f6e-a122-240a7307e1df" width="400" />
+    <img src="https://github.com/user-attachments/assets/3ab91280-843a-4f6e-a122-240a7307e1df" width="1200" />
     <p>Patients</p>
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/7e34b157-59c6-4671-b587-98e73156f7a5" width="400" />
+    <img src="https://github.com/user-attachments/assets/7e34b157-59c6-4671-b587-98e73156f7a5" width="1200" />
     <p>Patient</p>
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/390e268a-fdc9-4642-8331-f6e6695cf88c" width="400" />
+    <img src="https://github.com/user-attachments/assets/390e268a-fdc9-4642-8331-f6e6695cf88c" width="1200" />
     <p>Add visitation</p>
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px;">
