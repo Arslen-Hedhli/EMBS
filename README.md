@@ -42,7 +42,7 @@ The VivaMente Dashboard empowers doctors with tools to efficiently manage patien
 
 <p align="center">
   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/0b1faf96-3150-4984-aadd-076fc0783954" width="1200" />
+    <img src="https://github.com/user-attachments/assets/0b1faf96-3150-4984-aadd-076fc0783954" width="800" />
     <p>Dashboard</p>
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px;">
