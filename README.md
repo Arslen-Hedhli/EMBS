@@ -31,11 +31,10 @@ The VivaMente Dashboard empowers doctors with tools to efficiently manage patien
 
 📝 *Table of Contents*
 
-- [Documentation](#documentation)
-- [System Design](#-system-Design-)
-- [AI Models](#-AI-Models-)
-- [Game Interface](#-game-interface-)
-- [Architecture and Infrastructure](#-Architecture-and-Infrastructure)
+- [Website Layout](#-website-Layout-)
+- [Technologies used](#-Technologies-used-)
+- [Functionalities:](#-Functionalities-)
+
 
 ---
 
