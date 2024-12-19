@@ -66,13 +66,7 @@ The VivaMente Dashboard empowers doctors with tools to efficiently manage patien
 
 ## 💻 System Design <a name = "System Design"></a>
 
-The Chess Coach Robot is designed to operate in real-time, analyzing ongoing games and providing suggestions and feedback during the game. The system consists of:
-- *AI Models*: Reinforcement Learning for move prediction and optimization, Deep Neural Networks for game analysis.
-- *Chess Engine Integration*: The robot leverages a chess engine (like Stockfish) for move generation and evaluation.
-- *User Interface*: A friendly interface for players to interact with, including move suggestions, coaching tips, and progress tracking.
-
-
-  <img src="https://github.com/user-attachments/assets/2c77afc6-058b-4c17-bff7-cbd228ffbb9d" alt="Capture d'écran 2024-11-20 184744" style="width: 45%; height: 400px;">
+  <img src="https://github.com/user-attachments/assets/5db161d3-c999-423f-ba53-bd1b17f9a670" style="width: 45%; height: 400px;">
   <img src="https://github.com/user-attachments/assets/5fb84114-ee74-4ff0-b1de-3acd115328b9" alt="Capture d'écran 2024-11-20 185627" style="width: 45%; height: 400px;">
 
 ---
