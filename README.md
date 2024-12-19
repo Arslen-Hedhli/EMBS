@@ -66,25 +66,31 @@ The VivaMente Dashboard empowers doctors with tools to efficiently manage patien
 
 ## 💻 Technologies used <a name = "System Design"></a>
 
-  <img src="https://github.com/user-attachments/assets/5db161d3-c999-423f-ba53-bd1b17f9a670" style="width: 600px; height: 400px; display: block; margin-bottom: 10px;">
+  <img src="https://github.com/user-attachments/assets/5db161d3-c999-423f-ba53-bd1b17f9a670" style="width: 400px; height: 400px; display: block; margin-bottom: 10px;">
 <p>
   The backend for this dashboard was developed using NestJS, a progressive Node.js framework. A robust REST API was implemented to efficiently handle patient data, visitation-related information, and ensure seamless integration with the frontend for a smooth user experience.
 </p>
 
-<img src="https://github.com/user-attachments/assets/e6efff62-7b7f-4707-9226-4c7f143ef070" alt="Capture d'écran 2024-11-20 185627" style="width: 600px; height: 400px; display: block; margin-bottom: 10px;">
+<img src="https://github.com/user-attachments/assets/e6efff62-7b7f-4707-9226-4c7f143ef070" alt="Capture d'écran 2024-11-20 185627" style="width: 400px; height: 400px; display: block; margin-bottom: 10px;">
 <p>
   The video call feature was built using the Stream Video SDK, providing high-quality, real-time communication capabilities.
 </p>
 
-## 🤖 AI Models <a name = "AI Models"></a>
+## 🤖 Features <a name = "features"></a>
 
-The Chess Coach Robot uses several AI models to assist players:
-- *Optimal move determining algorithm*: Trained to predict optimal moves based on previous games and the current board state.
-- *Game state tracking model*: For detecting the position of the board and the pieces through the phone's camera .
-- *Endgame state prediction model*: A model trained to determine the winner/draw of thes chess game given the moves of both players.
-- *Chatbot Tutorial Assistant*:A RAG-powered chatbot tutorial that provides interactive guidance, real-time feedback, and error detection to help users build and refine chatbots efficiently.
 
-These models are continually updated and refined based on player feedback and gameplay data to ensure accuracy and effectiveness.
+- *Patient Management*  
+  - Add new patient profiles with relevant details.  
+  - Search for specific patients quickly and efficiently.  
+
+- *Session and Visitation Management*  
+  - Store notes and details related to patient visits.  
+  - Monitor and track medication schedules and updates.  
+
+- *Video Call Feature*  
+  - Real-time video communication using Stream Video SDK.  
+  - Secure and seamless video sessions between patients and healthcare providers.  
+  - Supports high-quality video and audio for effective remote consultations.  
 
 ---
 
