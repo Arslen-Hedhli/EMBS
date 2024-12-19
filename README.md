@@ -66,13 +66,15 @@ The VivaMente Dashboard empowers doctors with tools to efficiently manage patien
 
 ## 💻 Technologies used <a name = "System Design"></a>
 
-  <img src="https://github.com/user-attachments/assets/5db161d3-c999-423f-ba53-bd1b17f9a670" style="width=600; height: 400px;">
+  <img src="https://github.com/user-attachments/assets/5db161d3-c999-423f-ba53-bd1b17f9a670" style="width: 600px; height: 400px; display: block; margin-bottom: 10px;">
+<p>
   The backend for this dashboard was developed using NestJS, a progressive Node.js framework. A robust REST API was implemented to efficiently handle patient data, visitation-related information, and ensure seamless integration with the frontend for a smooth user experience.
+</p>
 
-  <img src="https://github.com/user-attachments/assets/e6efff62-7b7f-4707-9226-4c7f143ef070" alt="Capture d'écran 2024-11-20 185627" style="width: 600; height: 400px;">
+<img src="https://github.com/user-attachments/assets/e6efff62-7b7f-4707-9226-4c7f143ef070" alt="Capture d'écran 2024-11-20 185627" style="width: 600px; height: 400px; display: block; margin-bottom: 10px;">
+<p>
   The video call feature was built using the Stream Video SDK, providing high-quality, real-time communication capabilities.
-
----
+</p>
 
 ## 🤖 AI Models <a name = "AI Models"></a>
 
