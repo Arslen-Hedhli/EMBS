@@ -41,28 +41,27 @@ The VivaMente Dashboard empowers doctors with tools to efficiently manage patien
 ## 📚 Website Layout <a name = "website_layout"></a>
 
 <p align="center">
-  <div>
-    <img src="https://github.com/user-attachments/assets/0b1faf96-3150-4984-aadd-076fc0783954" width="350" />
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/0b1faf96-3150-4984-aadd-076fc0783954" width="400" />
     <p>Dashboard</p>
   </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/3ab91280-843a-4f6e-a122-240a7307e1df" width="350" />
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/3ab91280-843a-4f6e-a122-240a7307e1df" width="400" />
     <p>Patients</p>
   </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/7e34b157-59c6-4671-b587-98e73156f7a5" width="350" />
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/7e34b157-59c6-4671-b587-98e73156f7a5" width="400" />
     <p>Patient</p>
   </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/390e268a-fdc9-4642-8331-f6e6695cf88c" width="350" />
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/390e268a-fdc9-4642-8331-f6e6695cf88c" width="400" />
     <p>Add visitation</p>
   </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/c67dd291-41c1-4127-a32a-5dc554c4a8cb" width="350" />
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/c67dd291-41c1-4127-a32a-5dc554c4a8cb" width="400" />
     <p>Video call</p>
   </div>
 </p>
-
 ---
 
 ## 💻 System Design <a name = "System Design"></a>
