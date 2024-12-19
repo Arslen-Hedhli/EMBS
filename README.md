@@ -38,7 +38,7 @@ The VivaMente Dashboard empowers doctors with tools to efficiently manage patien
 
 ---
 
-## 📚 Documentation <a name = "documentation"></a>
+## 📚 Documentation <a name = "website_layout"></a>
 
 In this section, we provide an in-depth look at the technical aspects of the Chess Coach Robot, including the AI models used for move suggestion, game analysis, and improvement feedback. We also explain the architecture of the system, how it integrates with chess platforms, and the user interface design. 
 
